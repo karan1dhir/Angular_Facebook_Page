@@ -1,0 +1,18 @@
+.nav-bar {
+  background: #3F5C9A;
+  height: 80px;
+}
+.nav-text {
+  font-size: 1.5em;
+  color: #ffffff;
+}
+
+input[type="email"] {
+  width: 180px;
+  height: 25px;
+}
+
+input[type="password"] {
+  width: 180px;
+  height: 25px;
+}
